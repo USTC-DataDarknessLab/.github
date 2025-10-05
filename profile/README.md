@@ -5,3 +5,6 @@
 ### 👩‍💻 Lab Leader: Prof. [Xike Xie](http://staff.ustc.edu.cn/~xkxie/index-en.html)
 ### 🍿 Hanhai Hall Dining Hall, Renai Road 188
 
+```
+For questions regarding our code, please contact zezhongding@mail.ustc.edu.cn.
+```
